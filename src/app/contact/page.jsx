@@ -52,7 +52,7 @@ const Contact = () => {
             </p>
           </div>
         )}
-        <button type="button" onClick={toggleEditMode}>
+        <button type="button" className='btn' onClick={toggleEditMode}>
           {editMode ? 'Save' : 'Edit'}
         </button>
       </div>

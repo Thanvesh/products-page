@@ -12,10 +12,6 @@ const Home = () => {
     <main className="min-h-screen w-[90%] mx-auto">
       <Hero/>
       <Filters />
-      <Contact/>
-      <Skills/>
-      <Stories/>
-      <About/>
     </main>
   );
 };

@@ -34,17 +34,17 @@
     width: 100%;
   }
   
-  button {
+  .btn {
     padding: 8px 16px;
     font-size: 16px;
-    background-color: #3498db;
+    background-color: #131415;
     color: #ffffff;
     border: none;
     cursor: pointer;
     margin-top: 10px;
   }
   
-  button:hover {
-    background-color: #2980b9;
+  .btn:hover {
+    background-color: #3c9cdc;
   }
   
